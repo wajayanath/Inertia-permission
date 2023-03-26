@@ -7,12 +7,6 @@ import { Head } from "@inertiajs/vue3";
     <Head title="Dashboard" />
 
     <AdminLayout>
-        <template #header>
-            <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Dashboard
-            </h2>
-        </template>
-
         <div class="py-4">
             <h1>Welcome Admin</h1>
         </div>
